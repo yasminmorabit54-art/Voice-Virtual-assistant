@@ -1,0 +1,5 @@
+google-genai
+RealtimeSTT
+python-dotenv
+pyaudio
+numpy
